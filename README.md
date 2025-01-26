@@ -1,7 +1,7 @@
 # Project Requirement
-Java
-STS or Eclipse
-MYSQL
+Java </br>
+STS or Eclipse </br>
+MYSQL </br>
 
 # Steps to setup the project 
 Clone the project :- ***$ https://github.com/YogeshGurjar130/Book-APIs.git*** </br>
